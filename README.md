@@ -6,7 +6,9 @@
 📫 How to reach me: yhebm@connect.ust.hk  
 📣 Our lab is hiring engineering-oriented research assistants (RA). If you would like to apply, feel free to reach out with your CV!  
 
-🧁 More selected projects:  
+🧁 More selected projects: 
+- [![Code](https://img.shields.io/github/stars/VideoVerses/VideoVAEPlus.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoVAEPlus?tab=readme-ov-file) 🍭 **[2024-12-24] VideoVAE+**: Large Motion Video Autoencoding with Cross-modal Video VAE. (State-of-the-art Video VAE models).
+
 - [![Code](https://img.shields.io/github/stars/yzxing87/Seeing-and-Hearing.svg?style=social&label=Star)](https://github.com/yzxing87/Seeing-and-Hearing) 🍭 **[CVPR 2024] Seeing and Hearing**: Open-domain Visual-Audio Generation with Diffusion Latent Aligners.  
 - [![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade) 🍭 **[ECCV 2024] Make a Cheap Scaling**: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation.
    
