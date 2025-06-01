@@ -6,12 +6,20 @@
 📫 How to reach me: yhebm@connect.ust.hk  
 📣 Our lab is hiring engineering-oriented research assistants (RA). If you would like to apply, feel free to reach out with your CV!  
 
-🧁 More selected projects: 
-- [![Code](https://img.shields.io/github/stars/VideoVerses/VideoVAEPlus.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoVAEPlus?tab=readme-ov-file) 🍭 **[2024-12-24] VideoVAE+**: Large Motion Video Autoencoding with Cross-modal Video VAE. (State-of-the-art Video VAE models).
+**More recent projects:** 
+- [![Code](https://img.shields.io/github/stars/VideoVerses/VideoVAEPlus.svg?style=social&label=Star)](https://github.com/VideoVerses/VideoVAEPlus?tab=readme-ov-file) **[2024-12-24] VideoVAE+**: Large Motion Video Autoencoding with Cross-modal Video VAE. (State-of-the-art Video VAE models).
 
-- [![Code](https://img.shields.io/github/stars/yzxing87/Seeing-and-Hearing.svg?style=social&label=Star)](https://github.com/yzxing87/Seeing-and-Hearing) 🍭 **[CVPR 2024] Seeing and Hearing**: Open-domain Visual-Audio Generation with Diffusion Latent Aligners.  
-- [![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade) 🍭 **[ECCV 2024] Make a Cheap Scaling**: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation.
-   
+- [![Code](https://img.shields.io/github/stars/yzxing87/Seeing-and-Hearing.svg?style=social&label=Star)](https://github.com/yzxing87/Seeing-and-Hearing) **[CVPR 2024] Seeing and Hearing**: Open-domain Visual-Audio Generation with Diffusion Latent Aligners.  
+- [![Code](https://img.shields.io/github/stars/GuoLanqing/Self-Cascade.svg?style=social&label=Star)](https://github.com/GuoLanqing/Self-Cascade)  **[ECCV 2024] Make a Cheap Scaling**: A Self-Cascade Diffusion Model for Higher-Resolution Adaptation.
+
+**Awesome series:**
+- [![Code](https://img.shields.io/github/stars/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation.svg?style=social&label=Star)](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation)
+[Awesome-LLMs-meet-Multimodal-Generation](https://github.com/YingqingHe/Awesome-LLMs-meet-Multimodal-Generation): 🔥🔥🔥 A curated list of papers on **LLMs-based multimodal generation (image, video, 3D and audio)**.  
+- [![Code](https://img.shields.io/github/stars/GuoLanqing/Awesome-High-Resolution-Diffusion.svg?style=social&label=Star)](https://github.com/GuoLanqing/Awesome-High-Resolution-Diffusion)
+[Awesome-High-Resolution-Diffusion](https://github.com/GuoLanqing/Awesome-High-Resolution-Diffusion): 🔥🔥🔥 A curated list of papers on diffusion-based **high-resolution** image and video generation.  
+- [![Code](https://img.shields.io/github/stars/mayuelala/Awesome-Controllable-Video-Generation.svg?style=social&label=Star)](https://github.com/mayuelala/Awesome-Controllable-Video-Generation)
+[Awesome-Controllable-Video-Generation](https://github.com/mayuelala/Awesome-Controllable-Video-Generation): 🚀🚀🚀 A curated list of papers on **controllable video generation**.  
+ 
 For more of my generative AI projects, please check my [personal webpage](https://yingqinghe.github.io/).
 
 <!-- 
